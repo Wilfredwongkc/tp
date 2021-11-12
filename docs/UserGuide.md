@@ -3,8 +3,6 @@ layout: page
 title: User Guide
 ---
 
-![](images/UGBanner.png)
-
 ## Table of Contents
 
 * Table of Contents
@@ -12,7 +10,7 @@ title: User Guide
 
 ## Introduction
 
-Welcome to the TeachBook User Guide! 
+Welcome to this TeachBook User Guide! 
 
 If you are a primary or secondary school teacher who is using TeachBook, or just someone who wants to find out more 
 about what TeachBook can do, you are at the right place.
@@ -50,7 +48,7 @@ Symbol                 | Meaning
 -----------------------|---------
 :information_source:   | additional information that we feel that you ought to know
 :bulb:                 | a tip (e.g. shortcut or hidden features) which you can follow to enhance your experience using TeachBook
-:exclamation:          | a caution you have to take to prevent any unwanted results
+:exclamation:          | an extra caution you have to take to prevent any unwanted results
 
 --------------------------------------------------------------------------------------------------------------------
 [\[ Back to top \]](#table-of-contents)
@@ -154,7 +152,7 @@ This command deletes all classes and students, and resets the grading system of 
 Format: `clear`
 
 <div markdown="span" class="alert alert-primary">:bulb: **Tip:**
-Don't forget that TeachBook provides an undo feature if you accidentally clear all the data!
+Don't forget that TeachBook provides an undo feature just in case you accidentally clear all the data!
 </div>
 
 <br>
@@ -174,7 +172,7 @@ Format: `undo`
 
 #### Redoing a command: `redo`
 
-This command allows you to redo a command after using an `undo` command, if you undid it accidentally.
+This command allows you to redo a command after using an `undo` command, just in case you undid it accidentally.
 
 Format: `redo`
 
@@ -227,7 +225,7 @@ Fig 3: Class `4E4` added in [addClass](#adding-a-class--addclass) is deleted aft
 
 #### Editing a class name : `editClass`
 
-If you made a spelling mistake in your class name or willing to change the name of the class, you can use
+Just in case you made a spelling mistake in your class name or willing to change the name of the class, you can use
 this command to edit the name of the currently selected class.
 
 Format: `editClass CLASS_NAME`
@@ -300,7 +298,7 @@ Fig 6: Student `Jane Doe` is added into Class `4E1` after the second example com
 
 #### Deleting a student : `delete`
 
-If you have added a student to the wrong class, this command allows you to remove the student from the TeachBook.
+Just in case you have added a student to the wrong class, this command allows you to remove the student from the TeachBook.
 
 Format: `delete INDEX…||all`
 
